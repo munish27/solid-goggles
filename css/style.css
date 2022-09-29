@@ -1,0 +1,27 @@
+.head{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 20px;
+}
+.main{
+    text-align: center;
+    border: 50px solid rgb(218, 165, 31);
+    width: 300px;
+    height: 200px;
+    margin-left: 550px;
+    margin-right: 500px;
+    padding: 50px;
+}
+#main1{
+    font-size: 42px;
+    font-weight: bold;
+    color: #009900;
+    margin-top: 60px;
+    background-color: #4e4eb2;
+
+}
+#main2{
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #c5c5db;
+}
